@@ -1,0 +1,11 @@
+*.pyc
+*.tucao
+*.cmd
+*.log
+cookie.data
+
+/.idea
+/config/group/*.conf
+/config/pm/*.conf
+/config/sess/*.conf
+
